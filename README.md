@@ -1,4 +1,4 @@
-[![Header](https://raw.githubusercontent.com/imLightSpeed/imLightSpeed/main/djia_embed.jpg "Header")](http://lukesanborn.com/)
+[![Header](https://github.com/imLightSpeed/imLightSpeed/blob/main/djia_embd.png "Header")](http://lukesanborn.com/)
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
