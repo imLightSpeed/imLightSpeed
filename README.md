@@ -2,7 +2,7 @@
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-My name is Luke Sanborn and I'm a software developer/machine leanring engineer. I'm from the US, and currently working at Passenger AI. You can find me on [![LinkedIn][3.2]][3].
+My name is Luke Sanborn, and I'm a software developer/machine learning engineer. I'm from the US, and currently working at Passenger AI. You can find me on [![LinkedIn][3.2]][3].
 
 
 ## &#x1f4c8; GitHub Stats
