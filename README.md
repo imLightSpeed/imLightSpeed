@@ -1,17 +1,13 @@
-[![Header](https://github.com/imLightSpeed/imLightSpeed/blob/main/djia_embd.png "Header")](http://lukesanborn.com/)
 
-# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hello! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-My name is Luke Sanborn, and I'm a software developer/machine learning engineer. I'm from the US, and currently working at Passenger AI. You can find me on [![LinkedIn][3.2]][3].
+My name is Luke Sanborn, and I'm a full-stack software engineer and current CS student @ Princeton. I'm from the US, and currently working at GPTZero. You can find me on [![LinkedIn][3.2]][3].
 
 
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/imLightSpeed/imLightSpeed">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imLightSpeed&theme=onedark" />
-</a>
-<a href="https://github.com/imLightSpeed/imLightSpeed">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=imLightSpeed&theme=onedark&show_icons=true&line_height=27&count_private=true&title_color"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imLightSpeed&theme=dracula&layout=compact&langs_count=4" />
 </a>
 
 
